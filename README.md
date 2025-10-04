@@ -147,10 +147,6 @@
 </p>
 
 
-<!-- Final motif line -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.png" width="65%" />
-</p>
 
 
 
