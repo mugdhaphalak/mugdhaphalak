@@ -65,19 +65,19 @@
 <p align="center">
 
   <!-- Gmail -->
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:mugdhaphalak74@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="42"/>
   </a>
   &nbsp;&nbsp;
 
   <!-- Instagram -->
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://instagram.com/_mug.05z" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="42"/>
   </a>
   &nbsp;&nbsp;
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/mugdha-phalak-536628379/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="42"/>
   </a>
   
